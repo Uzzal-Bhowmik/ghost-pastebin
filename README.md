@@ -4,7 +4,7 @@
 
 Ghost Pastebin is a self-hosted pastebin system written in PHP. It allows users to register and login, create and share pastes, and recover their passwords using email verification. The system uses the Foundation CSS framework for a modern and responsive UI.
 
-#Features:
+# Features:
 
 * User Registration and Login
 * Create and Share Text Pastes
